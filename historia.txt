@@ -7,3 +7,7 @@ colombia
 mañana vida laboral
 
 ajam
+
+probando git rm cached
+
+dos
