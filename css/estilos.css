@@ -3,6 +3,9 @@ main {
     font-family: Arial, Helvetica, sans-serif;
     color: blueviolet;
 }
+body{
+    background-color: yellowgreen;
+}
 
 header {
     background-color: bisque;
